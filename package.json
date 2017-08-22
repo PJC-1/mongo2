@@ -1,0 +1,24 @@
+{
+  "name": "mongo2",
+  "version": "1.0.0",
+  "description": "Going through The Net Ninja's MongoDB Tutorial again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJC-1/mongo2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PJC-1/mongo2/issues"
+  },
+  "homepage": "https://github.com/PJC-1/mongo2#readme",
+  "dependencies": {
+    "mocha": "^3.5.0",
+    "mongoose": "^4.11.7"
+  }
+}
