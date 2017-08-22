@@ -11,4 +11,4 @@ const MarioCharSchema = new Schema({
 // From the model method, the first parameter is the collection in the db, and the second parameter is the schema that each new instance is based on.
 const MarioChar = mongoose.model('mariochar', MarioCharSchema);
 
-mondule.exports = MarioChar;
+module.exports = MarioChar;
