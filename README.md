@@ -15,3 +15,10 @@ We are using the ES6 default promise from the global object and overwriting the 
 
 - The find() methods are used on the models themselves:
   - MarioChar.find({name:'Mario'})
+
+- Deleting records
+  - Focus on 3 Mongoose methods:
+    - char.remove()
+    - MarioChar.remove()
+    - MarioChar.findOneAndRemove()
+    
