@@ -21,4 +21,10 @@ We are using the ES6 default promise from the global object and overwriting the 
     - char.remove()
     - MarioChar.remove()
     - MarioChar.findOneAndRemove()
-    
+
+- Updating records
+  - char.update()
+  - MarioChar.update()
+  - MarioChar.findOneAndUpdate()
+
+  
